@@ -1,0 +1,3 @@
+mutation getWeather($input: String!) {
+  getWeather(input: $input)
+}

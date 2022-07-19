@@ -1,0 +1,8 @@
+query GetWeatherSearches {
+  getWeatherSearches {
+    id
+    searchTerm
+    name
+    raw
+  }
+}

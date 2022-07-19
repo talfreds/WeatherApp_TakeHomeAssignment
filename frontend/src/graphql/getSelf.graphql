@@ -1,0 +1,13 @@
+query GetSelf {
+  getSelf {
+    user {
+      id
+      _id
+      name
+      email
+      role
+      createdAt
+      updatedAt
+    }
+  }
+}

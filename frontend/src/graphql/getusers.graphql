@@ -1,0 +1,7 @@
+query getUsersPublic {
+  getUsersPublic {
+    id
+    name
+    createdAt
+  }
+}
